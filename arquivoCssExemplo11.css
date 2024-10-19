@@ -1,0 +1,28 @@
+h1{
+    font-family: cursive;
+    font-weight: 800;
+    color:deeppink
+}
+p{
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 400;
+    margin: 20px;
+    padding: 15px;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    color: rgb(144, 52, 10);
+}
+#paragrafo1{
+    color: darkgreen;
+    font-family: fantasy;
+    text-align: justify;
+}
+.div1{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    border-left: red solid 4px;
+    margin: 10px;
+    padding: 10px;
+}
